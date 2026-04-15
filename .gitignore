@@ -1,2 +1,5 @@
+# 忽略 Claude 会话文件夹
 .claude/
-.docs/
+
+# 忽略 docs 整个文件夹
+docs/
